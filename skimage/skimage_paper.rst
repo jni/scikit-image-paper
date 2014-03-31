@@ -88,8 +88,8 @@ Industry
 
 .. include:: skimage/usage-industry.txt
 
-Gallery of examples
-===================
+Example: image registration and stitching
+=========================================
 
 .. include:: skimage/pano.txt
 
